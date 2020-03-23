@@ -46,5 +46,3 @@ connection.connect(function(err){
         })
     }
 });
-
-// export default connection;
